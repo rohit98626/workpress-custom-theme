@@ -1,6 +1,9 @@
 Custom WordPress theme built from scratch using PHP.
+
 Includes theme setup, hooks, and template structure.
+
 Built for rtCamp Associate WordPress Engineer application.
+
 
 
 
